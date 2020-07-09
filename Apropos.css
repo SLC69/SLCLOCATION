@@ -4,31 +4,33 @@ body{
 .nav{
     font-size: 20px;
 }
-
+.jumbotron{
+    background-image: url(102image14.jpg);
+    background-size: cover;
+    height: 35em;
+    text-align: center;
+    margin-bottom: 0;
+}
 .col-lg-12{
-    font-size: 2em;
-    margin: 5% 0% 4% 2%;
-}
-.lead{
-   margin: 0;
+    margin-top: 5%;
 }
 
-/*appartements connectés*/
 
-.col-lg-6{
-    text-align: justify;
-    padding: 5% 5% 0% 5%;
-}
-
-/*hautdepage*/
-.hautdepage{text-align: right;}
+.lead {
+    margin: 2% ;
+    padding: 2%;
+color: rgb(4, 37, 73);
+text-decoration: solid;
+background-color:rgba(117, 190, 218, 0.5);
+size: 5px;
+font-weight: bold;}
 
 /*footer*/
 
 footer{
-    padding:15px;
+    padding:5px;
     background-color : #343A40;
     color: white;
     text-align: center;
-    height: 12em;
+    height: 5em;
 }

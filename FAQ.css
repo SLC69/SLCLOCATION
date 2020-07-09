@@ -26,16 +26,14 @@ body
     background-image: url(lyon8.jpg);
   }
 
-
-h1
-  {
+h1  {
       color: rgb(244, 245, 245);
       text-align: center;
       text-decoration: cornflowerblue;
       font-style: bold;
   }
 
-h4
+h6
   {
       color: orange ;
       text-align: justify;

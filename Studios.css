@@ -5,68 +5,17 @@ body{
     font-size: 20px;
 }
 
-.col-lg-12{
-    font-size: 2em;
-    margin: 5% 0% 4% 2%;
-}
-
-/*DÉCOUVREZ NOS OFFRES ET IDÉES DE SORTIES !*/
 
 .container-fluid{
     background-color: #5CADE4;
-    padding-bottom: 4%;
-    margin-bottom: 0%;
 }
+
+h2{padding-top: 5%;}
+.row{padding : 1%}
 
 .card-text{
     text-align: center;
 }
-
-hr {
-    border: none;
-    border-top: 3px double #333;
-    color: #333;
-    overflow: visible;
-    text-align: center;
-    height: 5px;
-}
-
-/*experiences*/
-
-.image{
-    background-image: url(Lyon1.jpg);
-    background-size: cover;
-    height: 25em;
-}
-
-.col-lg-6{
-    text-align: justify;
-    padding: 5% 5% 0% 5%;
-}
-
-.travel{
-    font-size: 1.6em;
-    padding-bottom: 3%;
-}
-
-/*parlent de nous*/
-
-.media{
-    text-align: justify;
-    padding: 1%;
-    margin: 1% 15%;
-}
-.ml-3{
-    width: 30%;
-    border-radius: 40%;
-}
-strong{
-    font-size: 2em;
-}
-
-/*hautdepage*/
-.hautdepage{text-align: right;}
-
 
 /*footer*/
 footer{
