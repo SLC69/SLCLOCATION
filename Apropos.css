@@ -15,10 +15,13 @@ body{
     margin-top: 5%;
 }
 
+h1{
+    padding-top: 5%;
+}
 
 .presentation {
-    margin: 2% ;
-    padding: 2%;
+margin: 2% ;
+padding: 2%;
 color: rgb(4, 37, 73);
 text-decoration: solid;
 background-color:rgba(117, 190, 218, 0.5);
