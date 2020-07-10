@@ -21,6 +21,11 @@ body{
     margin: 5% 0% 4% 2%;
 }
 
+.presentation{
+    background-color:rgba(117, 190, 218, 0.5);
+    font-size: 18px;
+}
+
 /*DÉCOUVREZ NOS OFFRES ET IDÉES DE SORTIES !*/
 
 .container-fluid{
@@ -43,12 +48,12 @@ hr{
 .image{
     background-image: url(Lyon1.jpg);
     background-size: cover;
-    height: 25em;
+    height: 30em;
 }
 
 .col-lg-6{
     text-align: justify;
-    padding: 5% 5% 0% 5%;
+    padding: 0% 5% 0% 5%;
 }
 
 /*parlent de nous*/

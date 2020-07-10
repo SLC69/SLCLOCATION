@@ -21,6 +21,11 @@ h2{margin-top: 12%;}
 
 /*formulaire*/
 
+::placeholder {
+    color: blue;
+    font-size: 1em;
+  }
+
 .col-lg-7 input{
     width: 70%;
     background-color: #091A39;
